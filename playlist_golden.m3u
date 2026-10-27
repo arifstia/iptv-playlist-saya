@@ -1,10 +1,5 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1 tvg-id="auto.bein.sports.eng.1.720p" group-title="Sports",beIN Sports ENG 1 (720p)
-https://bein-xtra-bein.amagi.tv/playlistR720P.m3u8
-
-#EXTVLCOPT:http-referrer=https://rohan116.ultronx1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 xui-id="25988" tvg-id="" tvg-name="DTG Film Indonesia (Indonesia Subtittle)" tvg-logo="https://www.dropbox.com/s/vbhebtyqqlr638g/dtg%20film%20indonesia.png?dl=1" group-title="BIOSKOP™",DTG Film Indonesia (Indonesia Subtittle)
 http://goldenid.online:80/play/RIYENaV4eoSzNCetRDXbmjFgea7I3uBgds8XtegiKuE
 #EXTINF:-1 xui-id="23405" tvg-id="zeetamil" tvg-name="AFN" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQr1HpT4Hel5kE8scP0OFUgsT7__4MIICMhS5jHunStPJVUGo0A" group-title="ENTERTAINMENT™",AFN
