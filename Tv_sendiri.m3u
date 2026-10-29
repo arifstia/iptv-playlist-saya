@@ -1,0 +1,264 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/u0aa_S_rQeujrp5eR6LwXdertrI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png" group-title="Indonesia Channels",Metro TV HD
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-ttv.png",TransTV (Transmedia)
+#EXTGRP:Indonesia Channels
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
+https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w2685575259_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-t7.png",Trans7 (Transmedia)
+#EXTGRP:Indonesia Channels
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
+https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=12.6.0",CNN Indonesia 
+#EXTGRP:Indonesia Channels
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://video.detik.com/
+https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo/2026/favicon.png?v=7.0.6",CNBC Indonesia 
+#EXTGRP:Indonesia Channels
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://video.detik.com/
+https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="tvonenews.com" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TV One
+#EXTGRP:Indonesia Channels
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
+
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png",Kompas TV
+#EXTGRP:Indonesia Channels
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-origin=https://www.dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dens.tv/|referrer=https://www.dens.tv/|Origin=https://www.dens.tv|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTHTTP:{"Referer":"https://www.dens.tv/","referrer":"https://www.dens.tv/","Origin":"https://www.dens.tv","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0"}
+https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
+
+#EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/qtIYvE-mjwMPwd-VUxilo2gFiAI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18162/b4bea2.png",Garuda TV (ChannelFeed)
+#EXTGRP:Indonesia Channels
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://hgmtv.com:19360/garudatvlivestreaming/480p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://object-streamo.emonaja.com/img/moji.png", MOJI
+#EXTGRP:Indonesia Channels
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg",TVRI NASIONAL
+#EXTGRP:Indonesia Channels
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+https://cdnbal1.indihometv.com/atm/DASH/TVRI/TVRI-avc1_2500000=7-3277707030000000.mpd
+http://103.148.44.38:8000/play/a03t/index.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="" tvg-logo="https://klik.tvri.go.id/po-content/uploads/sumbar.png",TVRI Sumatera Barat
+#EXTGRP:Indonesia Channels
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.png", MDTV NET
+#EXTGRP:Indonesia Channels
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
+
+#EXTINF:-1 tvg-id="auto.lingkar.tv" tvg-logo="https://lingkartv.com/assets/img/logo-square.png",Lingkar TV
+#EXTGRP:Indonesia Channels
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://lingkartv.my.id/hls/lingkartv.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA6BYfiq2PIJR7wSvY-Dl_0DRHAYBZxepdWnvSgUxm7g&s=10", TRIBUN NEWS
+#EXTGRP:Indonesia Channels
+https://d1zhs9dfs6uqpg.cloudfront.net/hls/X16J4FID/X16J4FID_720p30.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zDD817V.png",RRI NET
+#EXTGRP:Indonesia Channels
+https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c4qsxIn.png" ,BERITA SATU
+#EXTGRP:Indonesia Channels
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://op-flashcon-digdayaxenkoda.dens.tv/3118a881-f091-4bd1-b479-3096e823e3ec/stream.m3u8?app_type=web&userid=lite&chname=Berita_Satu
+
+<=================================== SPORTS =======================================>
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/txEG9eg.png",RedBull TV
+#EXTGRP:SPORTS
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e1/MotoGP_logo_%282024%29.svg.png/500px-MotoGP_logo_%282024%29.svg.png",MotoGP
+#EXTGRP:SPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
+#EXTINF:-1 tvg-id="auto.bein.sports.eng.1.720p" group-title="SPORTS",beIN Sports ENG 1 (720p)
+https://bein-xtra-bein.amagi.tv/playlistR720P.m3u8
+
+#EXTVLCOPT:http-referrer=https://rohan116.ultronx1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
+#EXTINF:-1 tvg-id="auto.dazn.ringside" group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKVJVdXD6NTy8nMOIOb_mqewV8NZMUjHdPog&s", DAZN RINGSIDE
+https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
+
+<=================================== RELIGION =========================================>
+
+#EXTINF:-1 tvg-id="MQTV.id" tvg-name="MQTV" tvg-logo="https://www.mqtv.co.id/wp-content/uploads/2024/06/Logo_MQTV_Original-768x194.webp",MQTV
+#EXTGRP:REALIGI
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w1120365025.m3u8
+https://cdnbal1.indihometv.com/atm/DASH/mqtv/mqtv-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://rodja.tv/site/wp-content/uploads/2023/02/cropped-logo-RodjaTV-300x87.png",RodjaTV
+#EXTGRP:REALIGI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+http://op-flashcon-digdayahd-1.dens.tv/h/h233/index.m3u8
+
+#EXTINF:-1 tvg-id="AlQuran.Kareem.id" tvg-name="AlQuran Kareem" tvg-logo="https://aloula.faulio.com/storage/mediagallery/da/6c/fullhd_7eaf7e165c4cad5b3a45eff65d2011e18be5d670.png",AL QURAN KAREEM (Makkah live)
+#EXTGRP:REALIGI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+http://op-flashcon-digdayahd-1.dens.tv/h/h15/index.m3u8
+
+# ==============VOD INDO===============
+
+#EXTINF:-1 tvg-id="auto.13.bomb.di.jakarta" group-title="VOD INDO",13 Bomb Di Jakarta
+https://pixeldrain.com/api/file/ezqDwxkK?download
+
+#EXTINF:-1 tvg-id="auto.hamka.siti.raham.vol.2" group-title="VOD INDO",Hamka & Siti Raham Vol. 2
+https://pixeldrain.com/api/file/ZQVckcfF?download
+# "https://pixeldrain.com/api/file/JKM91MwQ?download
+# "
+
+#EXTINF:-1 tvg-id="auto.layangan.putus.the.movie" group-title="VOD INDO",Layangan Putus: The Movie
+https://pixeldrain.com/api/file/6fwxFxx9?download
+
+#EXTINF:-1 tvg-id="auto.mohon.doa.restu" group-title="VOD INDO",Mohon Doa Restu
+https://pixeldrain.com/api/file/fNKYLoB8?download
+
+#EXTINF:-1 tvg-id="auto.surga.di.bawah.langit" group-title="VOD INDO",Surga Di Bawah Langit
+https://pixeldrain.com/api/file/wbFWgdQ1?download
+
+#EXTINF:-1 tvg-id="auto.agak.laen" group-title="VOD INDO",Agak Laen
+https://pixeldrain.com/api/file/st9vqZYF?download
+
+#EXTINF:-1 tvg-id="auto.algrafi" group-title="VOD INDO",Algrafi
+https://pixeldrain.com/api/file/QXa6Czx5?download
+
+#EXTINF:-1 tvg-id="auto.ali.topan" group-title="VOD INDO",Ali Topan
+https://pixeldrain.com/api/file/MkWPhQ5s?download
+
+#EXTINF:-1 tvg-id="auto.ancika" group-title="VOD INDO",Ancika
+https://pixeldrain.com/api/file/owtfAL5s?download
+
+#EXTINF:-1 tvg-id="auto.ayo.balikan" group-title="VOD INDO",Ayo Balikan
+https://pixeldrain.com/api/file/VxqRRQ1B?download
+
+#EXTINF:-1 tvg-id="auto.bu.tejo.sowan.jakarta" group-title="VOD INDO",Bu Tejo Sowan Jakarta
+https://pixeldrain.com/api/file/tzav6YZV?download
+
+#EXTINF:-1 tvg-id="auto.cek.ombak.lagi" group-title="VOD INDO",Cek Ombak ( Lagi )
+https://pixeldrain.com/api/file/zUBcXqQw?download
+
+#EXTINF:-1 tvg-id="auto.demi.si.buah.hati" group-title="VOD INDO",Demi Si Buah Hati
+https://pixeldrain.com/api/file/c57W6uEZ?download
+
+#EXTINF:-1 tvg-id="auto.dinda" group-title="VOD INDO",Dinda
+https://pixeldrain.com/api/file/j1HPSh9x?download
+
+#EXTINF:-1 tvg-id="auto.kereta" group-title="VOD INDO",Kereta
+https://pixeldrain.com/api/file/oCpSqqah?download
+
+#EXTINF:-1 tvg-id="auto.melukis.luka" group-title="VOD INDO",Melukis Luka
+https://pixeldrain.com/api/file/nXDb1hSE?download
+
+#EXTINF:-1 tvg-id="auto.mukidi" group-title="VOD INDO",Mukidi
+https://pixeldrain.com/api/file/xDtZjqYB?download
+
+#EXTINF:-1 tvg-id="auto.pasutri.gaje" group-title="VOD INDO",Pasutri Gaje
+https://pixeldrain.com/api/file/6sQfgr9z?download
+
+#EXTINF:-1 tvg-id="auto.perjalanan.pembuktian.cinta" group-title="VOD INDO",Perjalanan Pembuktian Cinta
+https://pixeldrain.com/api/file/xvpzbndd?download
+
+#EXTINF:-1 tvg-id="auto.petualangan.sherina.2" group-title="VOD INDO",Petualangan Sherina 2
+https://pixeldrain.com/api/file/iLy76oSv?download
+
+#EXTINF:-1 tvg-id="auto.sujud.terakhir.bapak" group-title="VOD INDO",Sujud Terakhir Bapak
+https://pixeldrain.com/api/file/dwi7mgXX?download
+
+#EXTINF:-1 tvg-id="auto.titip.surat.untuk.tuhan" group-title="VOD INDO",Titip Surat Untuk Tuhan
+https://pixeldrain.com/api/file/845PJ3Gb?download
+# "https://pixeldrain.com/api/file/74gipWbg?download
+# "
+
+#EXTINF:-1 tvg-id="auto.kisah.tanah.jawa.pocong.gundul" group-title="VOD INDO",Kisah Tanah Jawa: Pocong Gundul
+https://pixeldrain.com/api/file/xTZuUgAW?download
+
+#EXTINF:-1 tvg-id="auto.kutukan.sembilan.setan" group-title="VOD INDO",Kutukan Sembilan Setan
+https://pixeldrain.com/api/file/smj56rTF?download
+
+#EXTINF:-1 tvg-id="auto.losmen.melati" group-title="VOD INDO",Losmen Melati
+https://pixeldrain.com/api/file/zBP5ULUD?download
+# "https://pixeldrain.com/api/file/zBP5ULUD?download
+# "
+
+#EXTINF:-1 tvg-id="auto.malam.para.jahanam" group-title="VOD INDO",Malam Para Jahanam
+https://pixeldrain.com/api/file/a9Y8CEgx?download
+
+#EXTINF:-1 tvg-id="auto.monster" group-title="VOD INDO",Monster
+https://pixeldrain.com/api/file/kzy3h67F?download
+
+#EXTINF:-1 tvg-id="auto.saranjana.kota.ghaib" group-title="VOD INDO",Saranjana: Kota Ghaib
+https://pixeldrain.com/api/file/vUGDTTXc?download
+# "https://pixeldrain.com/api/file/RAo1H7gc?download
+# "
+
+#EXTINF:-1 tvg-id="auto.siksa.neraka" group-title="VOD INDO",Siksa Neraka
+https://pixeldrain.com/api/file/Ya2YKE7h?download
+
+#EXTINF:-1 tvg-id="auto.kereta.berdarah" group-title="VOD INDO",Kereta Berdarah
+https://pixeldrain.com/api/file/tVDXN7EM?download
+
+#EXTINF:-1 tvg-id="auto.kuyang" group-title="VOD INDO",Kuyang
+https://pixeldrain.com/api/file/BPrv72bw?download
+
+#EXTINF:-1 tvg-id="auto.pemandi.jenazah" group-title="VOD INDO",Pemandi Jenazah
+https://pixeldrain.com/api/file/Zb5Seo99?download
+
+#EXTINF:-1 tvg-id="auto.pemukiman.setan" group-title="VOD INDO",Pemukiman Setan
+https://pixeldrain.com/api/file/gjPCoSJZ?download
+
+#EXTINF:-1 tvg-id="auto.ritual.tumbal.terakhir" group-title="VOD INDO",Ritual Tumbal Terakhir
+https://pixeldrain.com/api/file/f9HdvnRd?download
+
+#EXTINF:-1 tvg-id="auto.sehidup.semati" group-title="VOD INDO",Sehidup Semati
+https://pixeldrain.com/api/file/zSNxqv5q?download
+
+#EXTINF:-1 tvg-id="auto.sinden.gaib" group-title="VOD INDO",Sinden Gaib
+https://pixeldrain.com/api/file/ci2qdnsA?download
+
+#EXTINF:-1 tvg-id="auto.tanduk.setan" group-title="VOD INDO",Tanduk Setan
+https://pixeldrain.com/api/file/ocwVztMT?download
+
+#EXTINF:-1 tvg-id="auto.trinil" group-title="VOD INDO",Trinil
+https://pixeldrain.com/api/file/gu6tTkv4?download
