@@ -1,5 +1,19 @@
 #EXTM3U
 
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+
+#EXTINF:-1 xui-id="25666" tvg-id="zeetamil" tvg-name="MNC TV" tvg-logo="http://goldenid.online:80/images/K16NaGdQPPgIS7sfJa07qSIm5NJksqx8sVb1z9AAWfpxbqfVVWzCoJdkMxqtIrpXwD1h55ebTGKMBexQBA1UWYIluFr3X0z0chzt85T0WUrL7bu1rNU5TgCEAGdnVwuH.jpg" group-title="Indonesia Channels",MNCTV HD
+http://goldenid.online:80/play/mFh6NN-BWzl886PdFhupP_c3NTwVOD5OMM808jrglQg
+
+#EXTINF:-1 xui-id="25667" tvg-id="zeetamil" tvg-name="GTV" tvg-logo="http://goldenid.online:80/images/K16NaGdQPPgIS7sfJa07qSIm5NJksqx8sVb1z9AAWfr976KrlReMGVxaUgOIzxlufyib5y-r5RaxUfOViouzcC3Vwg3XjykhwOUx_iU9-NPauuZlaSzG17oE9cROjfux.jpg" group-title="Indonesia Channels",GTV
+http://goldenid.online:80/play/mFh6NN-BWzl886PdFhupP-8tIhYPX-yuxMU0TYrwMUE
+
+#EXTINF:-1 xui-id="25665" tvg-id="RCTI.id" tvg-name="RCTI (Sport)" tvg-logo="http://goldenid.online:80/images/K16NaGdQPPgIS7sfJa07qSIm5NJksqx8sVb1z9AAWfruPGdPfgXb-9LxirlkpxTim1gTfxrMKdaTAnIYFNqC2m3JhVYwYgDO-vO0An5zc-pgFeXaBaig27-B81zNY92A.jpg" group-title="Indonesia Channels",RCTI HD
+http://goldenid.online:80/play/mFh6NN-BWzl886PdFhupP4Ery4yNvrfiz22eAyCzIpQ
+
+#EXTINF:-1 xui-id="25688" tvg-id="zeetamil" tvg-name="SCTV (Sport)" tvg-logo="http://goldenid.online:80/images/K16NaGdQPPgIS7sfJa07qSIm5NJksqx8sVb1z9AAWfpidL9oXotpd8wdXfDYnKDdFmiXYde5ofr9-qxlTgzX1hvscvwH_T7L7WoRn8v2KBkRq0hI6Ghm3ublRF7honk6.jpg" group-title="Indonesia Channels",SCTV HD
+http://goldenid.online:80/play/mFh6NN-BWzl886PdFhupP1uDaIPEIBer5dNYo8p1e3o
+
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/u0aa_S_rQeujrp5eR6LwXdertrI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png" group-title="Indonesia Channels",MetroTV HD
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-origin=https://www.dens.tv
