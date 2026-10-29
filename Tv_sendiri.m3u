@@ -2,6 +2,9 @@
 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 
+#EXTINF:-1 xui-id="25686" tvg-id="TVS" tvg-name="Indosiar (Sport)" tvg-logo="http://goldenid.online:80/images/K16NaGdQPPgIS7sfJa07qSIm5NJksqx8sVb1z9AAWfqTlcmsje4pR2tiFs4ilZsc28qsONFbRS-n_VNTo1EOdf4iGnKWT_K7euFuwx5lB8IsOtuvl6Ad8E_3BeN4G4JQ.jpg" group-title="Indonesia Channels",Indosiar HD
+http://goldenid.online:80/play/mFh6NN-BWzl886PdFhupP3lifqJJpPDjYbWB9PJMdrk
+
 #EXTINF:-1 xui-id="25666" tvg-id="zeetamil" tvg-name="MNC TV" tvg-logo="http://goldenid.online:80/images/K16NaGdQPPgIS7sfJa07qSIm5NJksqx8sVb1z9AAWfpxbqfVVWzCoJdkMxqtIrpXwD1h55ebTGKMBexQBA1UWYIluFr3X0z0chzt85T0WUrL7bu1rNU5TgCEAGdnVwuH.jpg" group-title="Indonesia Channels",MNCTV HD
 http://goldenid.online:80/play/mFh6NN-BWzl886PdFhupP_c3NTwVOD5OMM808jrglQg
 
@@ -65,14 +68,6 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 #EXTHTTP:{"Referer":"https://www.dens.tv/","referrer":"https://www.dens.tv/","Origin":"https://www.dens.tv","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0"}
 https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
 
-#EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/qtIYvE-mjwMPwd-VUxilo2gFiAI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18162/b4bea2.png",Garuda TV (ChannelFeed)
-#EXTGRP:Indonesia Channels
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:contentlookup=false
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hgmtv.com:19360/garudatvlivestreaming/480p.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://object-streamo.emonaja.com/img/moji.png", MOJI
 #EXTGRP:Indonesia Channels
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -86,12 +81,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 https://cdnbal1.indihometv.com/atm/DASH/TVRI/TVRI-avc1_2500000=7-3277707030000000.mpd
 http://103.148.44.38:8000/play/a03t/index.m3u8
-
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="" tvg-logo="https://klik.tvri.go.id/po-content/uploads/sumbar.png",TVRI Sumatera Barat
-#EXTGRP:Indonesia Channels
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
-https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.png", MDTV NET
 #EXTGRP:Indonesia Channels
