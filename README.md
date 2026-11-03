@@ -18,7 +18,7 @@ Salin link **RAW** di bawah ini ke IPTV Player favoritmu. Jangan pakai link hala
 | Tipe | Link (Klik & Copy) | Status |
 | :--- | :--- | :--- |
 | 📜 **Main Playlist (M3U)** | `https://raw.githubusercontent.com/arifstia/iptv-playlist-saya/main/Tv_sendiri.m3u` | ✅ Active |
-| 📺 **EPG (Guide)** | *(Tambahkan link EPG publik di sini jika ada, opsional)* | ⏳ Pending |
+| 📺 **EPG (Guide)** | *(masih pengembangan)* | ⏳ Pending |
 
 ---
 
