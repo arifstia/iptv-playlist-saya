@@ -1,4 +1,4 @@
-# 🎮 ARIFSTIA IPTV: PRO GAMER PLAYLIST
+# 📺 ARIFSTIA IPTV INDONESIA CHANNELS
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/arifstia/iptv-playlist-saya?style=for-the-badge&logo=github&color=blue)
 ![GitHub stars](https://img.shields.io/github/stars/arifstia/iptv-playlist-saya?style=for-the-badge&logo=github&color=yellow)
@@ -7,7 +7,8 @@
 
 > *"Level up your viewing experience. No lag, no paywall, just pure stream."* 🚀
 
-Selamat datang di **Basecamp Playlist IPTV** milik **@arifstia**. Repositori ini berisi kumpulan link streaming TV & Channel gratis yang **bebas dipublikasikan** (public domain / free-to-air), dikurasi khusus dengan standar kualitas layaknya setup seorang Pro Gamer. 
+Selamat datang di **Playlist IPTV**
+Repositori ini berisi kumpulan link streaming TV & Channel gratis yang **bebas dipublikasikan** (public domain / free-to-air),
 
 ---
 
