@@ -23,6 +23,10 @@ http://goldenid.online:80/play/mFh6NN-BWzl886PdFhupP2Z1ONgY0fdWgx0iWi1nrho
 #EXTINF:-1 xui-id="25668" tvg-id="raniahd" tvg-name="i News" tvg-logo="http://goldenid.online:80/images/K16NaGdQPPgIS7sfJa07qSIm5NJksqx8sVb1z9AAWfpPc2FifcvHVAyIT4-BMw-2SaXj_8hS8tDGuxHjj7lFdz5BSxIBtYCbffd4498A-BEXFo3HH5w9ZbU6hBE4H4mH.jpg" group-title="Indonesia Channels",i News
 http://goldenid.online:80/play/mFh6NN-BWzl886PdFhupPygrH0nLi4FBbYfvT_ut5Ak
 
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://www.indosiar.com/assets/favicon.png",Indosiar (Biz)
+#EXTGRP:Indonesia Channels
+https://xcpro.biz.id:443/play/dYV3B3XWN54ZV-b1bZJcnsM5HwvOUP-b6zZddY2tfdY
+
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/u0aa_S_rQeujrp5eR6LwXdertrI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png" group-title="Indonesia Channels",MetroTV HD
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-origin=https://www.dens.tv
@@ -113,7 +117,7 @@ https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-flashcon-digdayaxenkoda.dens.tv/3118a881-f091-4bd1-b479-3096e823e3ec/stream.m3u8?app_type=web&userid=lite&chname=Berita_Satu
 
-<=================================== SPORTS =======================================>
+#<=================================== SPORTS =======================================>
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/txEG9eg.png",RedBull TV
 #EXTGRP:SPORTS
@@ -134,7 +138,12 @@ https://bein-xtra-bein.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1 tvg-id="auto.dazn.ringside" group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKVJVdXD6NTy8nMOIOb_mqewV8NZMUjHdPog&s", DAZN RINGSIDE
 https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
 
-<=================================== RELIGION =========================================>
+#EXTINF:-1 tvg-logo="https://static.cdnlogo.com/logos/f/70/fifa_thumb.png",FIFA+ US
+#EXTGRP:SPORTS
+#EXTVLCOPT:network-caching=1000
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#<=================================== RELIGION =========================================>
 
 #EXTINF:-1 tvg-id="MQTV.id" tvg-name="MQTV" tvg-logo="https://www.mqtv.co.id/wp-content/uploads/2024/06/Logo_MQTV_Original-768x194.webp",MQTV
 #EXTGRP:REALIGI
@@ -152,6 +161,44 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h233/index.m3u8
 #EXTGRP:REALIGI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 http://op-flashcon-digdayahd-1.dens.tv/h/h15/index.m3u8
+
+# ======kids channels========
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_49.png" tvg-id="Nickelodeon.id",Nickelodeon (Maxstream)
+#EXTGRP:Kids Channel
+http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/1179169
+
+#EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/rtv.png",Rajawali TV
+#EXTGRP:Kids Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
+
+#EXTINF:-1 tvg-id="auto.baby.shark.tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSk5u8qnZekBJlt1mpK1p4WqtmDfhTyPfABfWm7cN1BQ&s=10",Baby Shark TV
+#EXTGRP:Kids Channel
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Moonbug" tvg-logo="https://www.visionplus.id/images/repository/909/162909-LOGO-m.png",Moonbug Kids
+#EXTGRP:Kids Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZmFiYmFjZmQtYzYyZi0zMGQxLWIzZTctNWFiMzZjMDA1ZWZl
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+# ======PENGETAHUAN=========
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_463.png",Love Nature
+#EXTGRP:PENGETAHUAN
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-lgus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/windozalmi/Galery-Saya/refs/heads/Playlist/real%20wild.png",Real Wild
+#EXTGRP:PENGETAHUAN
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.wired2fish.com/wp-content/uploads/2024/10/logo-wired2fish.png",Wired 2 Fish
+#EXTGRP:PENGETAHUAN
+https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
 
 # ==============VOD INDO===============
 
