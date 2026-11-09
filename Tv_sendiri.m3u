@@ -117,7 +117,7 @@ https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-flashcon-digdayaxenkoda.dens.tv/3118a881-f091-4bd1-b479-3096e823e3ec/stream.m3u8?app_type=web&userid=lite&chname=Berita_Satu
 
-#<=================================== SPORTS =======================================>
+#<========== SPORTS ==============>
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/txEG9eg.png",RedBull TV
 #EXTGRP:SPORTS
@@ -146,7 +146,7 @@ https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="auto.golf.channel" group-title="SPORTS",Golf Channel
 https://30a-tv.com/feeds/vidaa/golf.m3u8
 
-#EXTINF:-1 tvg-id="auto.africa24.sport" group-title="Sports",Africa24 Sport
+#EXTINF:-1 tvg-id="auto.africa24.sport" group-title="SPORTS",Africa24 Sport
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 
 #EXTINF:-1 tvg-id="auto.dd.sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/DD_Sports_Logo.svg/960px-DD_Sports_Logo.svg.png" group-title="SPORTS",DD Sports
